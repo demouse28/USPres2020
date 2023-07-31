@@ -1,0 +1,1110 @@
+"SASUMMARY State annual summary statistics: personal income, GDP, consumer spending, price indexes, and employment"
+"SASUMMARY State annual summary statistics: personal income, GDP, consumer spending, price indexes, and employment"
+State or DC
+GeoFips,GeoName,LineCode,Description,2020
+00000,United States,,Real dollar statistics,
+00000,United States,1,"  Real GDP (millions of chained 2012 dollars) 1/",18509143.0
+00000,United States,2,"  Real personal income (millions of constant (2012) dollars) 2/",17628679.9
+00000,United States,3,"  Real PCE (millions of constant (2012) dollars) 3/",12629896.7
+00000,United States,,Current dollar statistics (millions of dollars),
+00000,United States,4,"  Gross domestic product (GDP)",21060474.0
+00000,United States,5,"  Personal income",19812171.0
+00000,United States,6,"  Disposable personal income",17577865.0
+00000,United States,7,"  Personal consumption expenditures",14116165.7
+00000,United States,,Real per capita dollar statistics (constant 2012 dollars),
+00000,United States,8,"  Real per capita personal income 4/",53504
+00000,United States,9,"  Real per capita PCE 5/",38332
+00000,United States,,Per capita current dollar statistics,
+00000,United States,10,"  Per capita personal income 6/",59765
+00000,United States,11,"  Per capita disposable personal income 7/",53025
+00000,United States,12,"  Per capita personal consumption expenditures (PCE) 8/",42583
+00000,United States,,Price indexes,
+00000,United States,13,"  Regional price parities (RPPs) 9/",100.000
+00000,United States,14,"  Implicit regional price deflator 10/",(NA)
+00000,United States,,Employment,
+00000,United States,15,"  Total employment (number of jobs)",195301600
+01000,Alabama,,Real dollar statistics,
+01000,Alabama,1,"  Real GDP (millions of chained 2012 dollars) 1/",199880.8
+01000,Alabama,2,"  Real personal income (millions of constant (2012) dollars) 2/",231128.3
+01000,Alabama,3,"  Real PCE (millions of constant (2012) dollars) 3/",177776.9
+01000,Alabama,,Current dollar statistics (millions of dollars),
+01000,Alabama,4,"  Gross domestic product (GDP)",230892.1
+01000,Alabama,5,"  Personal income",232040.3
+01000,Alabama,6,"  Disposable personal income",211949.4
+01000,Alabama,7,"  Personal consumption expenditures",177093.9
+01000,Alabama,,Real per capita dollar statistics (constant 2012 dollars),
+01000,Alabama,8,"  Real per capita personal income 4/",46963
+01000,Alabama,9,"  Real per capita PCE 5/",36122
+01000,Alabama,,Per capita current dollar statistics,
+01000,Alabama,10,"  Per capita personal income 6/",46179
+01000,Alabama,11,"  Per capita disposable personal income 7/",42181
+01000,Alabama,12,"  Per capita personal consumption expenditures (PCE) 8/",35244
+01000,Alabama,,Price indexes,
+01000,Alabama,13,"  Regional price parities (RPPs) 9/",89.252
+01000,Alabama,14,"  Implicit regional price deflator 10/",99.270
+01000,Alabama,,Employment,
+01000,Alabama,15,"  Total employment (number of jobs)",2671253
+02000,Alaska,,Real dollar statistics,
+02000,Alaska,1,"  Real GDP (millions of chained 2012 dollars) 1/",50705.2
+02000,Alaska,2,"  Real personal income (millions of constant (2012) dollars) 2/",40557.5
+02000,Alaska,3,"  Real PCE (millions of constant (2012) dollars) 3/",31034.2
+02000,Alaska,,Current dollar statistics (millions of dollars),
+02000,Alaska,4,"  Gross domestic product (GDP)",50475.2
+02000,Alaska,5,"  Personal income",45965.1
+02000,Alaska,6,"  Disposable personal income",42437.8
+02000,Alaska,7,"  Personal consumption expenditures",35831.5
+02000,Alaska,,Real per capita dollar statistics (constant 2012 dollars),
+02000,Alaska,8,"  Real per capita personal income 4/",55470
+02000,Alaska,9,"  Real per capita PCE 5/",42445
+02000,Alaska,,Per capita current dollar statistics,
+02000,Alaska,10,"  Per capita personal income 6/",62756
+02000,Alaska,11,"  Per capita disposable personal income 7/",57940
+02000,Alaska,12,"  Per capita personal consumption expenditures (PCE) 8/",48921
+02000,Alaska,,Price indexes,
+02000,Alaska,13,"  Regional price parities (RPPs) 9/",103.239
+02000,Alaska,14,"  Implicit regional price deflator 10/",114.827
+02000,Alaska,,Employment,
+02000,Alaska,15,"  Total employment (number of jobs)",430824
+04000,Arizona,,Real dollar statistics,
+04000,Arizona,1,"  Real GDP (millions of chained 2012 dollars) 1/",327178.0
+04000,Arizona,2,"  Real personal income (millions of constant (2012) dollars) 2/",335393.2
+04000,Arizona,3,"  Real PCE (millions of constant (2012) dollars) 3/",260537.2
+04000,Arizona,,Current dollar statistics (millions of dollars),
+04000,Arizona,4,"  Gross domestic product (GDP)",382072.3
+04000,Arizona,5,"  Personal income",375601.3
+04000,Arizona,6,"  Disposable personal income",339835.8
+04000,Arizona,7,"  Personal consumption expenditures",288818.8
+04000,Arizona,,Real per capita dollar statistics (constant 2012 dollars),
+04000,Arizona,8,"  Real per capita personal income 4/",45193
+04000,Arizona,9,"  Real per capita PCE 5/",35106
+04000,Arizona,,Per capita current dollar statistics,
+04000,Arizona,10,"  Per capita personal income 6/",52327
+04000,Arizona,11,"  Per capita disposable personal income 7/",47344
+04000,Arizona,12,"  Per capita personal consumption expenditures (PCE) 8/",40237
+04000,Arizona,,Price indexes,
+04000,Arizona,13,"  Regional price parities (RPPs) 9/",99.071
+04000,Arizona,14,"  Implicit regional price deflator 10/",110.192
+04000,Arizona,,Employment,
+04000,Arizona,15,"  Total employment (number of jobs)",3920036
+05000,Arkansas,,Real dollar statistics,
+05000,Arkansas,1,"  Real GDP (millions of chained 2012 dollars) 1/",117268.2
+05000,Arkansas,2,"  Real personal income (millions of constant (2012) dollars) 2/",144752.4
+05000,Arkansas,3,"  Real PCE (millions of constant (2012) dollars) 3/",105340.8
+05000,Arkansas,,Current dollar statistics (millions of dollars),
+05000,Arkansas,4,"  Gross domestic product (GDP)",133969.1
+05000,Arkansas,5,"  Personal income",142038.5
+05000,Arkansas,6,"  Disposable personal income",129873.4
+05000,Arkansas,7,"  Personal consumption expenditures",104782.9
+05000,Arkansas,,Real per capita dollar statistics (constant 2012 dollars),
+05000,Arkansas,8,"  Real per capita personal income 4/",47765
+05000,Arkansas,9,"  Real per capita PCE 5/",34760
+05000,Arkansas,,Per capita current dollar statistics,
+05000,Arkansas,10,"  Per capita personal income 6/",47154
+05000,Arkansas,11,"  Per capita disposable personal income 7/",43115
+05000,Arkansas,12,"  Per capita personal consumption expenditures (PCE) 8/",34786
+05000,Arkansas,,Price indexes,
+05000,Arkansas,13,"  Regional price parities (RPPs) 9/",89.181
+05000,Arkansas,14,"  Implicit regional price deflator 10/",99.191
+05000,Arkansas,,Employment,
+05000,Arkansas,15,"  Total employment (number of jobs)",1640442
+06000,California,,Real dollar statistics,
+06000,California,1,"  Real GDP (millions of chained 2012 dollars) 1/",2667220.9
+06000,California,2,"  Real personal income (millions of constant (2012) dollars) 2/",2257635.2
+06000,California,3,"  Real PCE (millions of constant (2012) dollars) 3/",1495470.9
+06000,California,,Current dollar statistics (millions of dollars),
+06000,California,4,"  Gross domestic product (GDP)",3020173.4
+06000,California,5,"  Personal income",2790523.5
+06000,California,6,"  Disposable personal income",2403799.4
+06000,California,7,"  Personal consumption expenditures",1848651.7
+06000,California,,Real per capita dollar statistics (constant 2012 dollars),
+06000,California,8,"  Real per capita personal income 4/",57347
+06000,California,9,"  Real per capita PCE 5/",37987
+06000,California,,Per capita current dollar statistics,
+06000,California,10,"  Per capita personal income 6/",70647
+06000,California,11,"  Per capita disposable personal income 7/",60856
+06000,California,12,"  Per capita personal consumption expenditures (PCE) 8/",46802
+06000,California,,Price indexes,
+06000,California,13,"  Regional price parities (RPPs) 9/",110.380
+06000,California,14,"  Implicit regional price deflator 10/",122.769
+06000,California,,Employment,
+06000,California,15,"  Total employment (number of jobs)",23155486
+08000,Colorado,,Real dollar statistics,
+08000,Colorado,1,"  Real GDP (millions of chained 2012 dollars) 1/",353345.2
+08000,Colorado,2,"  Real personal income (millions of constant (2012) dollars) 2/",324716.0
+08000,Colorado,3,"  Real PCE (millions of constant (2012) dollars) 3/",236760.8
+08000,Colorado,,Current dollar statistics (millions of dollars),
+08000,Colorado,4,"  Gross domestic product (GDP)",391263.3
+08000,Colorado,5,"  Personal income",378051.4
+08000,Colorado,6,"  Disposable personal income",333477.3
+08000,Colorado,7,"  Personal consumption expenditures",272276.5
+08000,Colorado,,Real per capita dollar statistics (constant 2012 dollars),
+08000,Colorado,8,"  Real per capita personal income 4/",55911
+08000,Colorado,9,"  Real per capita PCE 5/",40767
+08000,Colorado,,Per capita current dollar statistics,
+08000,Colorado,10,"  Per capita personal income 6/",65358
+08000,Colorado,11,"  Per capita disposable personal income 7/",57652
+08000,Colorado,12,"  Per capita personal consumption expenditures (PCE) 8/",47072
+08000,Colorado,,Price indexes,
+08000,Colorado,13,"  Regional price parities (RPPs) 9/",102.866
+08000,Colorado,14,"  Implicit regional price deflator 10/",114.412
+08000,Colorado,,Employment,
+08000,Colorado,15,"  Total employment (number of jobs)",3821923
+09000,Connecticut,,Real dollar statistics,
+09000,Connecticut,1,"  Real GDP (millions of chained 2012 dollars) 1/",235234.9
+09000,Connecticut,2,"  Real personal income (millions of constant (2012) dollars) 2/",243771.5
+09000,Connecticut,3,"  Real PCE (millions of constant (2012) dollars) 3/",155937.1
+09000,Connecticut,,Current dollar statistics (millions of dollars),
+09000,Connecticut,4,"  Gross domestic product (GDP)",276223.3
+09000,Connecticut,5,"  Personal income",282486.1
+09000,Connecticut,6,"  Disposable personal income",241345.9
+09000,Connecticut,7,"  Personal consumption expenditures",180077.0
+09000,Connecticut,,Real per capita dollar statistics (constant 2012 dollars),
+09000,Connecticut,8,"  Real per capita personal income 4/",68533
+09000,Connecticut,9,"  Real per capita PCE 5/",43839
+09000,Connecticut,,Per capita current dollar statistics,
+09000,Connecticut,10,"  Per capita personal income 6/",78463
+09000,Connecticut,11,"  Per capita disposable personal income 7/",67036
+09000,Connecticut,12,"  Per capita personal consumption expenditures (PCE) 8/",50018
+09000,Connecticut,,Price indexes,
+09000,Connecticut,13,"  Regional price parities (RPPs) 9/",103.439
+09000,Connecticut,14,"  Implicit regional price deflator 10/",115.050
+09000,Connecticut,,Employment,
+09000,Connecticut,15,"  Total employment (number of jobs)",2217497
+10000,Delaware,,Real dollar statistics,
+10000,Delaware,1,"  Real GDP (millions of chained 2012 dollars) 1/",62281.8
+10000,Delaware,2,"  Real personal income (millions of constant (2012) dollars) 2/",51006.8
+10000,Delaware,3,"  Real PCE (millions of constant (2012) dollars) 3/",41186.1
+10000,Delaware,,Current dollar statistics (millions of dollars),
+10000,Delaware,4,"  Gross domestic product (GDP)",75818.6
+10000,Delaware,5,"  Personal income",55866.8
+10000,Delaware,6,"  Disposable personal income",49416.5
+10000,Delaware,7,"  Personal consumption expenditures",45112.3
+10000,Delaware,,Real per capita dollar statistics (constant 2012 dollars),
+10000,Delaware,8,"  Real per capita personal income 4/",51689
+10000,Delaware,9,"  Real per capita PCE 5/",41737
+10000,Delaware,,Per capita current dollar statistics,
+10000,Delaware,10,"  Per capita personal income 6/",56324
+10000,Delaware,11,"  Per capita disposable personal income 7/",49821
+10000,Delaware,12,"  Per capita personal consumption expenditures (PCE) 8/",45481
+10000,Delaware,,Price indexes,
+10000,Delaware,13,"  Regional price parities (RPPs) 9/",97.872
+10000,Delaware,14,"  Implicit regional price deflator 10/",108.858
+10000,Delaware,,Employment,
+10000,Delaware,15,"  Total employment (number of jobs)",592045
+11000,District of Columbia,,Real dollar statistics,
+11000,District of Columbia,1,"  Real GDP (millions of chained 2012 dollars) 1/",122485.3
+11000,District of Columbia,2,"  Real personal income (millions of constant (2012) dollars) 2/",49925.8
+11000,District of Columbia,3,"  Real PCE (millions of constant (2012) dollars) 3/",37471.6
+11000,District of Columbia,,Current dollar statistics (millions of dollars),
+11000,District of Columbia,4,"  Gross domestic product (GDP)",144720.0
+11000,District of Columbia,5,"  Personal income",61925.5
+11000,District of Columbia,6,"  Disposable personal income",52510.2
+11000,District of Columbia,7,"  Personal consumption expenditures",47733.5
+11000,District of Columbia,,Real per capita dollar statistics (constant 2012 dollars),
+11000,District of Columbia,8,"  Real per capita personal income 4/",70040
+11000,District of Columbia,9,"  Real per capita PCE 5/",52568
+11000,District of Columbia,,Per capita current dollar statistics,
+11000,District of Columbia,10,"  Per capita personal income 6/",89735
+11000,District of Columbia,11,"  Per capita disposable personal income 7/",76091
+11000,District of Columbia,12,"  Per capita personal consumption expenditures (PCE) 8/",69170
+11000,District of Columbia,,Price indexes,
+11000,District of Columbia,13,"  Regional price parities (RPPs) 9/",111.459
+11000,District of Columbia,14,"  Implicit regional price deflator 10/",123.970
+11000,District of Columbia,,Employment,
+11000,District of Columbia,15,"  Total employment (number of jobs)",865878
+12000,Florida,,Real dollar statistics,
+12000,Florida,1,"  Real GDP (millions of chained 2012 dollars) 1/",950164.4
+12000,Florida,2,"  Real personal income (millions of constant (2012) dollars) 2/",1083474.6
+12000,Florida,3,"  Real PCE (millions of constant (2012) dollars) 3/",846225.4
+12000,Florida,,Current dollar statistics (millions of dollars),
+12000,Florida,4,"  Gross domestic product (GDP)",1116726.8
+12000,Florida,5,"  Personal income",1235793.4
+12000,Florida,6,"  Disposable personal income",1111276.3
+12000,Florida,7,"  Personal consumption expenditures",954880.3
+12000,Florida,,Real per capita dollar statistics (constant 2012 dollars),
+12000,Florida,8,"  Real per capita personal income 4/",49853
+12000,Florida,9,"  Real per capita PCE 5/",38937
+12000,Florida,,Per capita current dollar statistics,
+12000,Florida,10,"  Per capita personal income 6/",57292
+12000,Florida,11,"  Per capita disposable personal income 7/",51520
+12000,Florida,12,"  Per capita personal consumption expenditures (PCE) 8/",44269
+12000,Florida,,Price indexes,
+12000,Florida,13,"  Regional price parities (RPPs) 9/",100.711
+12000,Florida,14,"  Implicit regional price deflator 10/",112.016
+12000,Florida,,Employment,
+12000,Florida,15,"  Total employment (number of jobs)",12720098
+13000,Georgia,,Real dollar statistics,
+13000,Georgia,1,"  Real GDP (millions of chained 2012 dollars) 1/",537615.8
+13000,Georgia,2,"  Real personal income (millions of constant (2012) dollars) 2/",528986.8
+13000,Georgia,3,"  Real PCE (millions of constant (2012) dollars) 3/",388721.0
+13000,Georgia,,Current dollar statistics (millions of dollars),
+13000,Georgia,4,"  Gross domestic product (GDP)",625425.7
+13000,Georgia,5,"  Personal income",557601.2
+13000,Georgia,6,"  Disposable personal income",500696.2
+13000,Georgia,7,"  Personal consumption expenditures",410296.0
+13000,Georgia,,Real per capita dollar statistics (constant 2012 dollars),
+13000,Georgia,8,"  Real per capita personal income 4/",49392
+13000,Georgia,9,"  Real per capita PCE 5/",36295
+13000,Georgia,,Per capita current dollar statistics,
+13000,Georgia,10,"  Per capita personal income 6/",51987
+13000,Georgia,11,"  Per capita disposable personal income 7/",46681
+13000,Georgia,12,"  Per capita personal consumption expenditures (PCE) 8/",38253
+13000,Georgia,,Price indexes,
+13000,Georgia,13,"  Regional price parities (RPPs) 9/",94.541
+13000,Georgia,14,"  Implicit regional price deflator 10/",105.153
+13000,Georgia,,Employment,
+13000,Georgia,15,"  Total employment (number of jobs)",6326942
+15000,Hawaii,,Real dollar statistics,
+15000,Hawaii,1,"  Real GDP (millions of chained 2012 dollars) 1/",70109.4
+15000,Hawaii,2,"  Real personal income (millions of constant (2012) dollars) 2/",66458.6
+15000,Hawaii,3,"  Real PCE (millions of constant (2012) dollars) 3/",50923.3
+15000,Hawaii,,Current dollar statistics (millions of dollars),
+15000,Hawaii,4,"  Gross domestic product (GDP)",82535.5
+15000,Hawaii,5,"  Personal income",83109.5
+15000,Hawaii,6,"  Disposable personal income",74141.3
+15000,Hawaii,7,"  Personal consumption expenditures",64031.5
+15000,Hawaii,,Real per capita dollar statistics (constant 2012 dollars),
+15000,Hawaii,8,"  Real per capita personal income 4/",47234
+15000,Hawaii,9,"  Real per capita PCE 5/",36193
+15000,Hawaii,,Per capita current dollar statistics,
+15000,Hawaii,10,"  Per capita personal income 6/",57241
+15000,Hawaii,11,"  Per capita disposable personal income 7/",51065
+15000,Hawaii,12,"  Per capita personal consumption expenditures (PCE) 8/",44102
+15000,Hawaii,,Price indexes,
+15000,Hawaii,13,"  Regional price parities (RPPs) 9/",111.985
+15000,Hawaii,14,"  Implicit regional price deflator 10/",124.555
+15000,Hawaii,,Employment,
+15000,Hawaii,15,"  Total employment (number of jobs)",817748
+16000,Idaho,,Real dollar statistics,
+16000,Idaho,1,"  Real GDP (millions of chained 2012 dollars) 1/",75145.5
+16000,Idaho,2,"  Real personal income (millions of constant (2012) dollars) 2/",88085.7
+16000,Idaho,3,"  Real PCE (millions of constant (2012) dollars) 3/",63865.6
+16000,Idaho,,Current dollar statistics (millions of dollars),
+16000,Idaho,4,"  Gross domestic product (GDP)",85927.8
+16000,Idaho,5,"  Personal income",91448.5
+16000,Idaho,6,"  Disposable personal income",82766.5
+16000,Idaho,7,"  Personal consumption expenditures",65101.0
+16000,Idaho,,Real per capita dollar statistics (constant 2012 dollars),
+16000,Idaho,8,"  Real per capita personal income 4/",48216
+16000,Idaho,9,"  Real per capita PCE 5/",34958
+16000,Idaho,,Per capita current dollar statistics,
+16000,Idaho,10,"  Per capita personal income 6/",49491
+16000,Idaho,11,"  Per capita disposable personal income 7/",44793
+16000,Idaho,12,"  Per capita personal consumption expenditures (PCE) 8/",35232
+16000,Idaho,,Price indexes,
+16000,Idaho,13,"  Regional price parities (RPPs) 9/",91.196
+16000,Idaho,14,"  Implicit regional price deflator 10/",101.433
+16000,Idaho,,Employment,
+16000,Idaho,15,"  Total employment (number of jobs)",1078122
+17000,Illinois,,Real dollar statistics,
+17000,Illinois,1,"  Real GDP (millions of chained 2012 dollars) 1/",734385.0
+17000,Illinois,2,"  Real personal income (millions of constant (2012) dollars) 2/",710967.0
+17000,Illinois,3,"  Real PCE (millions of constant (2012) dollars) 3/",495383.1
+17000,Illinois,,Current dollar statistics (millions of dollars),
+17000,Illinois,4,"  Gross domestic product (GDP)",856942.9
+17000,Illinois,5,"  Personal income",794459.5
+17000,Illinois,6,"  Disposable personal income",701883.3
+17000,Illinois,7,"  Personal consumption expenditures",556286.1
+17000,Illinois,,Real per capita dollar statistics (constant 2012 dollars),
+17000,Illinois,8,"  Real per capita personal income 4/",56482
+17000,Illinois,9,"  Real per capita PCE 5/",39355
+17000,Illinois,,Per capita current dollar statistics,
+17000,Illinois,10,"  Per capita personal income 6/",62139
+17000,Illinois,11,"  Per capita disposable personal income 7/",54898
+17000,Illinois,12,"  Per capita personal consumption expenditures (PCE) 8/",43510
+17000,Illinois,,Price indexes,
+17000,Illinois,13,"  Regional price parities (RPPs) 9/",100.476
+17000,Illinois,14,"  Implicit regional price deflator 10/",111.754
+17000,Illinois,,Employment,
+17000,Illinois,15,"  Total employment (number of jobs)",7519502
+18000,Indiana,,Real dollar statistics,
+18000,Indiana,1,"  Real GDP (millions of chained 2012 dollars) 1/",327277.9
+18000,Indiana,2,"  Real personal income (millions of constant (2012) dollars) 2/",341961.9
+18000,Indiana,3,"  Real PCE (millions of constant (2012) dollars) 3/",250130.6
+18000,Indiana,,Current dollar statistics (millions of dollars),
+18000,Indiana,4,"  Gross domestic product (GDP)",373781.6
+18000,Indiana,5,"  Personal income",354337.7
+18000,Indiana,6,"  Disposable personal income",319874.5
+18000,Indiana,7,"  Personal consumption expenditures",258617.9
+18000,Indiana,,Real per capita dollar statistics (constant 2012 dollars),
+18000,Indiana,8,"  Real per capita personal income 4/",50624
+18000,Indiana,9,"  Real per capita PCE 5/",37029
+18000,Indiana,,Per capita current dollar statistics,
+18000,Indiana,10,"  Per capita personal income 6/",52219
+18000,Indiana,11,"  Per capita disposable personal income 7/",47140
+18000,Indiana,12,"  Per capita personal consumption expenditures (PCE) 8/",38113
+18000,Indiana,,Price indexes,
+18000,Indiana,13,"  Regional price parities (RPPs) 9/",92.501
+18000,Indiana,14,"  Implicit regional price deflator 10/",102.883
+18000,Indiana,,Employment,
+18000,Indiana,15,"  Total employment (number of jobs)",3843507
+19000,Iowa,,Real dollar statistics,
+19000,Iowa,1,"  Real GDP (millions of chained 2012 dollars) 1/",170957.4
+19000,Iowa,2,"  Real personal income (millions of constant (2012) dollars) 2/",167572.1
+19000,Iowa,3,"  Real PCE (millions of constant (2012) dollars) 3/",117417.6
+19000,Iowa,,Current dollar statistics (millions of dollars),
+19000,Iowa,4,"  Gross domestic product (GDP)",196982.9
+19000,Iowa,5,"  Personal income",169994.2
+19000,Iowa,6,"  Disposable personal income",153817.1
+19000,Iowa,7,"  Personal consumption expenditures",119315.3
+19000,Iowa,,Real per capita dollar statistics (constant 2012 dollars),
+19000,Iowa,8,"  Real per capita personal income 4/",52969
+19000,Iowa,9,"  Real per capita PCE 5/",37116
+19000,Iowa,,Per capita current dollar statistics,
+19000,Iowa,10,"  Per capita personal income 6/",53312
+19000,Iowa,11,"  Per capita disposable personal income 7/",48239
+19000,Iowa,12,"  Per capita personal consumption expenditures (PCE) 8/",37419
+19000,Iowa,,Price indexes,
+19000,Iowa,13,"  Regional price parities (RPPs) 9/",91.047
+19000,Iowa,14,"  Implicit regional price deflator 10/",101.266
+19000,Iowa,,Employment,
+19000,Iowa,15,"  Total employment (number of jobs)",2010409
+20000,Kansas,,Real dollar statistics,
+20000,Kansas,1,"  Real GDP (millions of chained 2012 dollars) 1/",158348.3
+20000,Kansas,2,"  Real personal income (millions of constant (2012) dollars) 2/",159598.1
+20000,Kansas,3,"  Real PCE (millions of constant (2012) dollars) 3/",110175.9
+20000,Kansas,,Current dollar statistics (millions of dollars),
+20000,Kansas,4,"  Gross domestic product (GDP)",177580.9
+20000,Kansas,5,"  Personal income",164333.6
+20000,Kansas,6,"  Disposable personal income",148056.5
+20000,Kansas,7,"  Personal consumption expenditures",113475.7
+20000,Kansas,,Real per capita dollar statistics (constant 2012 dollars),
+20000,Kansas,8,"  Real per capita personal income 4/",54773
+20000,Kansas,9,"  Real per capita PCE 5/",37812
+20000,Kansas,,Per capita current dollar statistics,
+20000,Kansas,10,"  Per capita personal income 6/",55974
+20000,Kansas,11,"  Per capita disposable personal income 7/",50430
+20000,Kansas,12,"  Per capita personal consumption expenditures (PCE) 8/",38651
+20000,Kansas,,Price indexes,
+20000,Kansas,13,"  Regional price parities (RPPs) 9/",92.364
+20000,Kansas,14,"  Implicit regional price deflator 10/",102.731
+20000,Kansas,,Employment,
+20000,Kansas,15,"  Total employment (number of jobs)",1879086
+21000,Kentucky,,Real dollar statistics,
+21000,Kentucky,1,"  Real GDP (millions of chained 2012 dollars) 1/",188396.3
+21000,Kentucky,2,"  Real personal income (millions of constant (2012) dollars) 2/",212898.1
+21000,Kentucky,3,"  Real PCE (millions of constant (2012) dollars) 3/",163987.4
+21000,Kentucky,,Current dollar statistics (millions of dollars),
+21000,Kentucky,4,"  Gross domestic product (GDP)",216865.6
+21000,Kentucky,5,"  Personal income",214052.5
+21000,Kentucky,6,"  Disposable personal income",194013.6
+21000,Kentucky,7,"  Personal consumption expenditures",164142.1
+21000,Kentucky,,Real per capita dollar statistics (constant 2012 dollars),
+21000,Kentucky,8,"  Real per capita personal income 4/",47551
+21000,Kentucky,9,"  Real per capita PCE 5/",36627
+21000,Kentucky,,Per capita current dollar statistics,
+21000,Kentucky,10,"  Per capita personal income 6/",47525
+21000,Kentucky,11,"  Per capita disposable personal income 7/",43076
+21000,Kentucky,12,"  Per capita personal consumption expenditures (PCE) 8/",36444
+21000,Kentucky,,Price indexes,
+21000,Kentucky,13,"  Regional price parities (RPPs) 9/",89.778
+21000,Kentucky,14,"  Implicit regional price deflator 10/",99.855
+21000,Kentucky,,Employment,
+21000,Kentucky,15,"  Total employment (number of jobs)",2472056
+22000,Louisiana,,Real dollar statistics,
+22000,Louisiana,1,"  Real GDP (millions of chained 2012 dollars) 1/",218421.7
+22000,Louisiana,2,"  Real personal income (millions of constant (2012) dollars) 2/",229864.6
+22000,Louisiana,3,"  Real PCE (millions of constant (2012) dollars) 3/",168266.1
+22000,Louisiana,,Current dollar statistics (millions of dollars),
+22000,Louisiana,4,"  Gross domestic product (GDP)",232527.8
+22000,Louisiana,5,"  Personal income",236324.2
+22000,Louisiana,6,"  Disposable personal income",217041.9
+22000,Louisiana,7,"  Personal consumption expenditures",173900.0
+22000,Louisiana,,Real per capita dollar statistics (constant 2012 dollars),
+22000,Louisiana,8,"  Real per capita personal income 4/",49483
+22000,Louisiana,9,"  Real per capita PCE 5/",36223
+22000,Louisiana,,Per capita current dollar statistics,
+22000,Louisiana,10,"  Per capita personal income 6/",50809
+22000,Louisiana,11,"  Per capita disposable personal income 7/",46664
+22000,Louisiana,12,"  Per capita personal consumption expenditures (PCE) 8/",37388
+22000,Louisiana,,Price indexes,
+22000,Louisiana,13,"  Regional price parities (RPPs) 9/",92.716
+22000,Louisiana,14,"  Implicit regional price deflator 10/",103.123
+22000,Louisiana,,Employment,
+22000,Louisiana,15,"  Total employment (number of jobs)",2593066
+23000,Maine,,Real dollar statistics,
+23000,Maine,1,"  Real GDP (millions of chained 2012 dollars) 1/",59881.4
+23000,Maine,2,"  Real personal income (millions of constant (2012) dollars) 2/",68204.3
+23000,Maine,3,"  Real PCE (millions of constant (2012) dollars) 3/",56785.8
+23000,Maine,,Current dollar statistics (millions of dollars),
+23000,Maine,4,"  Gross domestic product (GDP)",70740.0
+23000,Maine,5,"  Personal income",74805.9
+23000,Maine,6,"  Disposable personal income",67597.0
+23000,Maine,7,"  Personal consumption expenditures",61370.5
+23000,Maine,,Real per capita dollar statistics (constant 2012 dollars),
+23000,Maine,8,"  Real per capita personal income 4/",50516
+23000,Maine,9,"  Real per capita PCE 5/",42059
+23000,Maine,,Per capita current dollar statistics,
+23000,Maine,10,"  Per capita personal income 6/",54912
+23000,Maine,11,"  Per capita disposable personal income 7/",49620
+23000,Maine,12,"  Per capita personal consumption expenditures (PCE) 8/",45050
+23000,Maine,,Price indexes,
+23000,Maine,13,"  Regional price parities (RPPs) 9/",96.776
+23000,Maine,14,"  Implicit regional price deflator 10/",107.639
+23000,Maine,,Employment,
+23000,Maine,15,"  Total employment (number of jobs)",813207
+24000,Maryland,,Real dollar statistics,
+24000,Maryland,1,"  Real GDP (millions of chained 2012 dollars) 1/",352384.0
+24000,Maryland,2,"  Real personal income (millions of constant (2012) dollars) 2/",342623.0
+24000,Maryland,3,"  Real PCE (millions of constant (2012) dollars) 3/",226691.9
+24000,Maryland,,Current dollar statistics (millions of dollars),
+24000,Maryland,4,"  Gross domestic product (GDP)",410931.0
+24000,Maryland,5,"  Personal income",405454.6
+24000,Maryland,6,"  Disposable personal income",352071.7
+24000,Maryland,7,"  Personal consumption expenditures",269486.2
+24000,Maryland,,Real per capita dollar statistics (constant 2012 dollars),
+24000,Maryland,8,"  Real per capita personal income 4/",56578
+24000,Maryland,9,"  Real per capita PCE 5/",37434
+24000,Maryland,,Per capita current dollar statistics,
+24000,Maryland,10,"  Per capita personal income 6/",65685
+24000,Maryland,11,"  Per capita disposable personal income 7/",57037
+24000,Maryland,12,"  Per capita personal consumption expenditures (PCE) 8/",43658
+24000,Maryland,,Price indexes,
+24000,Maryland,13,"  Regional price parities (RPPs) 9/",106.472
+24000,Maryland,14,"  Implicit regional price deflator 10/",118.424
+24000,Maryland,,Employment,
+24000,Maryland,15,"  Total employment (number of jobs)",3620521
+25000,Massachusetts,,Real dollar statistics,
+25000,Massachusetts,1,"  Real GDP (millions of chained 2012 dollars) 1/",500001.0
+25000,Massachusetts,2,"  Real personal income (millions of constant (2012) dollars) 2/",453961.5
+25000,Massachusetts,3,"  Real PCE (millions of constant (2012) dollars) 3/",299971.2
+25000,Massachusetts,,Current dollar statistics (millions of dollars),
+25000,Massachusetts,4,"  Gross domestic product (GDP)",585150.3
+25000,Massachusetts,5,"  Personal income",550459.5
+25000,Massachusetts,6,"  Disposable personal income",471696.0
+25000,Massachusetts,7,"  Personal consumption expenditures",360537.9
+25000,Massachusetts,,Real per capita dollar statistics (constant 2012 dollars),
+25000,Massachusetts,8,"  Real per capita personal income 4/",65853
+25000,Massachusetts,9,"  Real per capita PCE 5/",43515
+25000,Massachusetts,,Per capita current dollar statistics,
+25000,Massachusetts,10,"  Per capita personal income 6/",78388
+25000,Massachusetts,11,"  Per capita disposable personal income 7/",67172
+25000,Massachusetts,12,"  Per capita personal consumption expenditures (PCE) 8/",51342
+25000,Massachusetts,,Price indexes,
+25000,Massachusetts,13,"  Regional price parities (RPPs) 9/",107.442
+25000,Massachusetts,14,"  Implicit regional price deflator 10/",119.502
+25000,Massachusetts,,Employment,
+25000,Massachusetts,15,"  Total employment (number of jobs)",4600345
+26000,Michigan,,Real dollar statistics,
+26000,Michigan,1,"  Real GDP (millions of chained 2012 dollars) 1/",448455.3
+26000,Michigan,2,"  Real personal income (millions of constant (2012) dollars) 2/",508997.4
+26000,Michigan,3,"  Real PCE (millions of constant (2012) dollars) 3/",393269.4
+26000,Michigan,,Current dollar statistics (millions of dollars),
+26000,Michigan,4,"  Gross domestic product (GDP)",520105.3
+26000,Michigan,5,"  Personal income",537493.5
+26000,Michigan,6,"  Disposable personal income",484712.1
+26000,Michigan,7,"  Personal consumption expenditures",411989.1
+26000,Michigan,,Real per capita dollar statistics (constant 2012 dollars),
+26000,Michigan,8,"  Real per capita personal income 4/",51071
+26000,Michigan,9,"  Real per capita PCE 5/",39459
+26000,Michigan,,Per capita current dollar statistics,
+26000,Michigan,10,"  Per capita personal income 6/",53388
+26000,Michigan,11,"  Per capita disposable personal income 7/",48145
+26000,Michigan,12,"  Per capita personal consumption expenditures (PCE) 8/",40922
+26000,Michigan,,Price indexes,
+26000,Michigan,13,"  Regional price parities (RPPs) 9/",94.045
+26000,Michigan,14,"  Implicit regional price deflator 10/",104.601
+26000,Michigan,,Employment,
+26000,Michigan,15,"  Total employment (number of jobs)",5388167
+27000,Minnesota,,Real dollar statistics,
+27000,Minnesota,1,"  Real GDP (millions of chained 2012 dollars) 1/",328489.5
+27000,Minnesota,2,"  Real personal income (millions of constant (2012) dollars) 2/",320748.9
+27000,Minnesota,3,"  Real PCE (millions of constant (2012) dollars) 3/",229001.5
+27000,Minnesota,,Current dollar statistics (millions of dollars),
+27000,Minnesota,4,"  Gross domestic product (GDP)",376814.4
+27000,Minnesota,5,"  Personal income",355211.2
+27000,Minnesota,6,"  Disposable personal income",311082.3
+27000,Minnesota,7,"  Personal consumption expenditures",252088.0
+27000,Minnesota,,Real per capita dollar statistics (constant 2012 dollars),
+27000,Minnesota,8,"  Real per capita personal income 4/",56696
+27000,Minnesota,9,"  Real per capita PCE 5/",40479
+27000,Minnesota,,Per capita current dollar statistics,
+27000,Minnesota,10,"  Per capita personal income 6/",62240
+27000,Minnesota,11,"  Per capita disposable personal income 7/",54507
+27000,Minnesota,12,"  Per capita personal consumption expenditures (PCE) 8/",44170
+27000,Minnesota,,Price indexes,
+27000,Minnesota,13,"  Regional price parities (RPPs) 9/",98.625
+27000,Minnesota,14,"  Implicit regional price deflator 10/",109.696
+27000,Minnesota,,Employment,
+27000,Minnesota,15,"  Total employment (number of jobs)",3608149
+28000,Mississippi,,Real dollar statistics,
+28000,Mississippi,1,"  Real GDP (millions of chained 2012 dollars) 1/",100526.9
+28000,Mississippi,2,"  Real personal income (millions of constant (2012) dollars) 2/",128412.9
+28000,Mississippi,3,"  Real PCE (millions of constant (2012) dollars) 3/",98330.7
+28000,Mississippi,,Current dollar statistics (millions of dollars),
+28000,Mississippi,4,"  Gross domestic product (GDP)",115123.4
+28000,Mississippi,5,"  Personal income",126306.9
+28000,Mississippi,6,"  Disposable personal income",117059.7
+28000,Mississippi,7,"  Personal consumption expenditures",96324.6
+28000,Mississippi,,Real per capita dollar statistics (constant 2012 dollars),
+28000,Mississippi,8,"  Real per capita personal income 4/",43284
+28000,Mississippi,9,"  Real per capita PCE 5/",33144
+28000,Mississippi,,Per capita current dollar statistics,
+28000,Mississippi,10,"  Per capita personal income 6/",42716
+28000,Mississippi,11,"  Per capita disposable personal income 7/",39589
+28000,Mississippi,12,"  Per capita personal consumption expenditures (PCE) 8/",32577
+28000,Mississippi,,Price indexes,
+28000,Mississippi,13,"  Regional price parities (RPPs) 9/",87.775
+28000,Mississippi,14,"  Implicit regional price deflator 10/",97.628
+28000,Mississippi,,Employment,
+28000,Mississippi,15,"  Total employment (number of jobs)",1573592
+29000,Missouri,,Real dollar statistics,
+29000,Missouri,1,"  Real GDP (millions of chained 2012 dollars) 1/",282754.1
+29000,Missouri,2,"  Real personal income (millions of constant (2012) dollars) 2/",310064.8
+29000,Missouri,3,"  Real PCE (millions of constant (2012) dollars) 3/",239174.1
+29000,Missouri,,Current dollar statistics (millions of dollars),
+29000,Missouri,4,"  Gross domestic product (GDP)",330249.9
+29000,Missouri,5,"  Personal income",320698.2
+29000,Missouri,6,"  Disposable personal income",288990.1
+29000,Missouri,7,"  Personal consumption expenditures",246982.5
+29000,Missouri,,Real per capita dollar statistics (constant 2012 dollars),
+29000,Missouri,8,"  Real per capita personal income 4/",50404
+29000,Missouri,9,"  Real per capita PCE 5/",38880
+29000,Missouri,,Per capita current dollar statistics,
+29000,Missouri,10,"  Per capita personal income 6/",52108
+29000,Missouri,11,"  Per capita disposable personal income 7/",46956
+29000,Missouri,12,"  Per capita personal consumption expenditures (PCE) 8/",40131
+29000,Missouri,,Price indexes,
+29000,Missouri,13,"  Regional price parities (RPPs) 9/",92.494
+29000,Missouri,14,"  Implicit regional price deflator 10/",102.876
+29000,Missouri,,Employment,
+29000,Missouri,15,"  Total employment (number of jobs)",3693351
+30000,Montana,,Real dollar statistics,
+30000,Montana,1,"  Real GDP (millions of chained 2012 dollars) 1/",46750.4
+30000,Montana,2,"  Real personal income (millions of constant (2012) dollars) 2/",56248.7
+30000,Montana,3,"  Real PCE (millions of constant (2012) dollars) 3/",44465.6
+30000,Montana,,Current dollar statistics (millions of dollars),
+30000,Montana,4,"  Gross domestic product (GDP)",52355.8
+30000,Montana,5,"  Personal income",58769.6
+30000,Montana,6,"  Disposable personal income",52805.3
+30000,Montana,7,"  Personal consumption expenditures",46022.0
+30000,Montana,,Real per capita dollar statistics (constant 2012 dollars),
+30000,Montana,8,"  Real per capita personal income 4/",52054
+30000,Montana,9,"  Real per capita PCE 5/",41150
+30000,Montana,,Per capita current dollar statistics,
+30000,Montana,10,"  Per capita personal income 6/",54106
+30000,Montana,11,"  Per capita disposable personal income 7/",48615
+30000,Montana,12,"  Per capita personal consumption expenditures (PCE) 8/",42370
+30000,Montana,,Price indexes,
+30000,Montana,13,"  Regional price parities (RPPs) 9/",92.443
+30000,Montana,14,"  Implicit regional price deflator 10/",102.820
+30000,Montana,,Employment,
+30000,Montana,15,"  Total employment (number of jobs)",684333
+31000,Nebraska,,Real dollar statistics,
+31000,Nebraska,1,"  Real GDP (millions of chained 2012 dollars) 1/",118141.5
+31000,Nebraska,2,"  Real personal income (millions of constant (2012) dollars) 2/",108291.2
+31000,Nebraska,3,"  Real PCE (millions of constant (2012) dollars) 3/",77154.8
+31000,Nebraska,,Current dollar statistics (millions of dollars),
+31000,Nebraska,4,"  Gross domestic product (GDP)",134580.8
+31000,Nebraska,5,"  Personal income",112629.7
+31000,Nebraska,6,"  Disposable personal income",101869.0
+31000,Nebraska,7,"  Personal consumption expenditures",80058.2
+31000,Nebraska,,Real per capita dollar statistics (constant 2012 dollars),
+31000,Nebraska,8,"  Real per capita personal income 4/",55891
+31000,Nebraska,9,"  Real per capita PCE 5/",39821
+31000,Nebraska,,Per capita current dollar statistics,
+31000,Nebraska,10,"  Per capita personal income 6/",57421
+31000,Nebraska,11,"  Per capita disposable personal income 7/",51935
+31000,Nebraska,12,"  Per capita personal consumption expenditures (PCE) 8/",40816
+31000,Nebraska,,Price indexes,
+31000,Nebraska,13,"  Regional price parities (RPPs) 9/",92.890
+31000,Nebraska,14,"  Implicit regional price deflator 10/",103.317
+31000,Nebraska,,Employment,
+31000,Nebraska,15,"  Total employment (number of jobs)",1305987
+32000,Nevada,,Real dollar statistics,
+32000,Nevada,1,"  Real GDP (millions of chained 2012 dollars) 1/",146492.5
+32000,Nevada,2,"  Real personal income (millions of constant (2012) dollars) 2/",156644.1
+32000,Nevada,3,"  Real PCE (millions of constant (2012) dollars) 3/",113990.9
+32000,Nevada,,Current dollar statistics (millions of dollars),
+32000,Nevada,4,"  Gross domestic product (GDP)",172562.6
+32000,Nevada,5,"  Personal income",172538.5
+32000,Nevada,6,"  Disposable personal income",156436.5
+32000,Nevada,7,"  Personal consumption expenditures",124030.6
+32000,Nevada,,Real per capita dollar statistics (constant 2012 dollars),
+32000,Nevada,8,"  Real per capita personal income 4/",49914
+32000,Nevada,9,"  Real per capita PCE 5/",36323
+32000,Nevada,,Per capita current dollar statistics,
+32000,Nevada,10,"  Per capita personal income 6/",55406
+32000,Nevada,11,"  Per capita disposable personal income 7/",50235
+32000,Nevada,12,"  Per capita personal consumption expenditures (PCE) 8/",39829
+32000,Nevada,,Price indexes,
+32000,Nevada,13,"  Regional price parities (RPPs) 9/",97.056
+32000,Nevada,14,"  Implicit regional price deflator 10/",107.951
+32000,Nevada,,Employment,
+32000,Nevada,15,"  Total employment (number of jobs)",1770936
+33000,New Hampshire,,Real dollar statistics,
+33000,New Hampshire,1,"  Real GDP (millions of chained 2012 dollars) 1/",75927.6
+33000,New Hampshire,2,"  Real personal income (millions of constant (2012) dollars) 2/",79711.7
+33000,New Hampshire,3,"  Real PCE (millions of constant (2012) dollars) 3/",61305.9
+33000,New Hampshire,,Current dollar statistics (millions of dollars),
+33000,New Hampshire,4,"  Gross domestic product (GDP)",88337.7
+33000,New Hampshire,5,"  Personal income",94440.8
+33000,New Hampshire,6,"  Disposable personal income",85335.7
+33000,New Hampshire,7,"  Personal consumption expenditures",71131.4
+33000,New Hampshire,,Real per capita dollar statistics (constant 2012 dollars),
+33000,New Hampshire,8,"  Real per capita personal income 4/",58342
+33000,New Hampshire,9,"  Real per capita PCE 5/",44871
+33000,New Hampshire,,Per capita current dollar statistics,
+33000,New Hampshire,10,"  Per capita personal income 6/",68542
+33000,New Hampshire,11,"  Per capita disposable personal income 7/",61934
+33000,New Hampshire,12,"  Per capita personal consumption expenditures (PCE) 8/",51625
+33000,New Hampshire,,Price indexes,
+33000,New Hampshire,13,"  Regional price parities (RPPs) 9/",103.713
+33000,New Hampshire,14,"  Implicit regional price deflator 10/",115.354
+33000,New Hampshire,,Employment,
+33000,New Hampshire,15,"  Total employment (number of jobs)",858502
+34000,New Jersey,,Real dollar statistics,
+34000,New Jersey,1,"  Real GDP (millions of chained 2012 dollars) 1/",535323.7
+34000,New Jersey,2,"  Real personal income (millions of constant (2012) dollars) 2/",529339.1
+34000,New Jersey,3,"  Real PCE (millions of constant (2012) dollars) 3/",360787.4
+34000,New Jersey,,Current dollar statistics (millions of dollars),
+34000,New Jersey,4,"  Gross domestic product (GDP)",620085.9
+34000,New Jersey,5,"  Personal income",663544.1
+34000,New Jersey,6,"  Disposable personal income",579483.8
+34000,New Jersey,7,"  Personal consumption expenditures",447693.8
+34000,New Jersey,,Real per capita dollar statistics (constant 2012 dollars),
+34000,New Jersey,8,"  Real per capita personal income 4/",59594
+34000,New Jersey,9,"  Real per capita PCE 5/",40618
+34000,New Jersey,,Per capita current dollar statistics,
+34000,New Jersey,10,"  Per capita personal income 6/",71505
+34000,New Jersey,11,"  Per capita disposable personal income 7/",62446
+34000,New Jersey,12,"  Per capita personal consumption expenditures (PCE) 8/",48244
+34000,New Jersey,,Price indexes,
+34000,New Jersey,13,"  Regional price parities (RPPs) 9/",111.163
+34000,New Jersey,14,"  Implicit regional price deflator 10/",123.640
+34000,New Jersey,,Employment,
+34000,New Jersey,15,"  Total employment (number of jobs)",5319600
+35000,New Mexico,,Real dollar statistics,
+35000,New Mexico,1,"  Real GDP (millions of chained 2012 dollars) 1/",92496.3
+35000,New Mexico,2,"  Real personal income (millions of constant (2012) dollars) 2/",96125.9
+35000,New Mexico,3,"  Real PCE (millions of constant (2012) dollars) 3/",72931.0
+35000,New Mexico,,Current dollar statistics (millions of dollars),
+35000,New Mexico,4,"  Gross domestic product (GDP)",98790.0
+35000,New Mexico,5,"  Personal income",99018.0
+35000,New Mexico,6,"  Disposable personal income",91171.2
+35000,New Mexico,7,"  Personal consumption expenditures",74388.6
+35000,New Mexico,,Real per capita dollar statistics (constant 2012 dollars),
+35000,New Mexico,8,"  Real per capita personal income 4/",45637
+35000,New Mexico,9,"  Real per capita PCE 5/",34625
+35000,New Mexico,,Per capita current dollar statistics,
+35000,New Mexico,10,"  Per capita personal income 6/",46760
+35000,New Mexico,11,"  Per capita disposable personal income 7/",43055
+35000,New Mexico,12,"  Per capita personal consumption expenditures (PCE) 8/",35129
+35000,New Mexico,,Price indexes,
+35000,New Mexico,13,"  Regional price parities (RPPs) 9/",91.567
+35000,New Mexico,14,"  Implicit regional price deflator 10/",101.845
+35000,New Mexico,,Employment,
+35000,New Mexico,15,"  Total employment (number of jobs)",1069680
+36000,New York,,Real dollar statistics,
+36000,New York,1,"  Real GDP (millions of chained 2012 dollars) 1/",1432507.0
+36000,New York,2,"  Real personal income (millions of constant (2012) dollars) 2/",1178311.4
+36000,New York,3,"  Real PCE (millions of constant (2012) dollars) 3/",784533.7
+36000,New York,,Current dollar statistics (millions of dollars),
+36000,New York,4,"  Gross domestic product (GDP)",1740804.7
+36000,New York,5,"  Personal income",1442624.6
+36000,New York,6,"  Disposable personal income",1225726.1
+36000,New York,7,"  Personal consumption expenditures",966027.5
+36000,New York,,Real per capita dollar statistics (constant 2012 dollars),
+36000,New York,8,"  Real per capita personal income 4/",60936
+36000,New York,9,"  Real per capita PCE 5/",40572
+36000,New York,,Per capita current dollar statistics,
+36000,New York,10,"  Per capita personal income 6/",71577
+36000,New York,11,"  Per capita disposable personal income 7/",60815
+36000,New York,12,"  Per capita personal consumption expenditures (PCE) 8/",47930
+36000,New York,,Price indexes,
+36000,New York,13,"  Regional price parities (RPPs) 9/",110.212
+36000,New York,14,"  Implicit regional price deflator 10/",122.583
+36000,New York,,Employment,
+36000,New York,15,"  Total employment (number of jobs)",11872381
+37000,North Carolina,,Real dollar statistics,
+37000,North Carolina,1,"  Real GDP (millions of chained 2012 dollars) 1/",506658.1
+37000,North Carolina,2,"  Real personal income (millions of constant (2012) dollars) 2/",523633.4
+37000,North Carolina,3,"  Real PCE (millions of constant (2012) dollars) 3/",397413.9
+37000,North Carolina,,Current dollar statistics (millions of dollars),
+37000,North Carolina,4,"  Gross domestic product (GDP)",598915.9
+37000,North Carolina,5,"  Personal income",542726.5
+37000,North Carolina,6,"  Disposable personal income",486060.2
+37000,North Carolina,7,"  Personal consumption expenditures",407610.3
+37000,North Carolina,,Real per capita dollar statistics (constant 2012 dollars),
+37000,North Carolina,8,"  Real per capita personal income 4/",49396
+37000,North Carolina,9,"  Real per capita PCE 5/",37489
+37000,North Carolina,,Per capita current dollar statistics,
+37000,North Carolina,10,"  Per capita personal income 6/",51900
+37000,North Carolina,11,"  Per capita disposable personal income 7/",46481
+37000,North Carolina,12,"  Per capita personal consumption expenditures (PCE) 8/",38979
+37000,North Carolina,,Price indexes,
+37000,North Carolina,13,"  Regional price parities (RPPs) 9/",91.840
+37000,North Carolina,14,"  Implicit regional price deflator 10/",102.149
+37000,North Carolina,,Employment,
+37000,North Carolina,15,"  Total employment (number of jobs)",6055314
+38000,North Dakota,,Real dollar statistics,
+38000,North Dakota,1,"  Real GDP (millions of chained 2012 dollars) 1/",53653.6
+38000,North Dakota,2,"  Real personal income (millions of constant (2012) dollars) 2/",46137.4
+38000,North Dakota,3,"  Real PCE (millions of constant (2012) dollars) 3/",32851.9
+38000,North Dakota,,Current dollar statistics (millions of dollars),
+38000,North Dakota,4,"  Gross domestic product (GDP)",54422.9
+38000,North Dakota,5,"  Personal income",47410.7
+38000,North Dakota,6,"  Disposable personal income",43230.1
+38000,North Dakota,7,"  Personal consumption expenditures",33820.5
+38000,North Dakota,,Real per capita dollar statistics (constant 2012 dollars),
+38000,North Dakota,8,"  Real per capita personal income 4/",60286
+38000,North Dakota,9,"  Real per capita PCE 5/",42926
+38000,North Dakota,,Per capita current dollar statistics,
+38000,North Dakota,10,"  Per capita personal income 6/",60864
+38000,North Dakota,11,"  Per capita disposable personal income 7/",55497
+38000,North Dakota,12,"  Per capita personal consumption expenditures (PCE) 8/",43417
+38000,North Dakota,,Price indexes,
+38000,North Dakota,13,"  Regional price parities (RPPs) 9/",92.041
+38000,North Dakota,14,"  Implicit regional price deflator 10/",102.372
+38000,North Dakota,,Employment,
+38000,North Dakota,15,"  Total employment (number of jobs)",560682
+39000,Ohio,,Real dollar statistics,
+39000,Ohio,1,"  Real GDP (millions of chained 2012 dollars) 1/",594143.6
+39000,Ohio,2,"  Real personal income (millions of constant (2012) dollars) 2/",616908.2
+39000,Ohio,3,"  Real PCE (millions of constant (2012) dollars) 3/",457102.5
+39000,Ohio,,Current dollar statistics (millions of dollars),
+39000,Ohio,4,"  Gross domestic product (GDP)",684382.5
+39000,Ohio,5,"  Personal income",631330.7
+39000,Ohio,6,"  Disposable personal income",569348.7
+39000,Ohio,7,"  Personal consumption expenditures",467691.0
+39000,Ohio,,Real per capita dollar statistics (constant 2012 dollars),
+39000,Ohio,8,"  Real per capita personal income 4/",52758
+39000,Ohio,9,"  Real per capita PCE 5/",39091
+39000,Ohio,,Per capita current dollar statistics,
+39000,Ohio,10,"  Per capita personal income 6/",53545
+39000,Ohio,11,"  Per capita disposable personal income 7/",48288
+39000,Ohio,12,"  Per capita personal consumption expenditures (PCE) 8/",39666
+39000,Ohio,,Price indexes,
+39000,Ohio,13,"  Regional price parities (RPPs) 9/",91.690
+39000,Ohio,14,"  Implicit regional price deflator 10/",101.981
+39000,Ohio,,Employment,
+39000,Ohio,15,"  Total employment (number of jobs)",6853595
+40000,Oklahoma,,Real dollar statistics,
+40000,Oklahoma,1,"  Real GDP (millions of chained 2012 dollars) 1/",192485.5
+40000,Oklahoma,2,"  Real personal income (millions of constant (2012) dollars) 2/",196070.8
+40000,Oklahoma,3,"  Real PCE (millions of constant (2012) dollars) 3/",135341.1
+40000,Oklahoma,,Current dollar statistics (millions of dollars),
+40000,Oklahoma,4,"  Gross domestic product (GDP)",190063.6
+40000,Oklahoma,5,"  Personal income",200152.9
+40000,Oklahoma,6,"  Disposable personal income",183543.9
+40000,Oklahoma,7,"  Personal consumption expenditures",138003.6
+40000,Oklahoma,,Real per capita dollar statistics (constant 2012 dollars),
+40000,Oklahoma,8,"  Real per capita personal income 4/",49254
+40000,Oklahoma,9,"  Real per capita PCE 5/",33999
+40000,Oklahoma,,Per capita current dollar statistics,
+40000,Oklahoma,10,"  Per capita personal income 6/",50518
+40000,Oklahoma,11,"  Per capita disposable personal income 7/",46326
+40000,Oklahoma,12,"  Per capita personal consumption expenditures (PCE) 8/",34832
+40000,Oklahoma,,Price indexes,
+40000,Oklahoma,13,"  Regional price parities (RPPs) 9/",91.322
+40000,Oklahoma,14,"  Implicit regional price deflator 10/",101.572
+40000,Oklahoma,,Employment,
+40000,Oklahoma,15,"  Total employment (number of jobs)",2263126
+41000,Oregon,,Real dollar statistics,
+41000,Oregon,1,"  Real GDP (millions of chained 2012 dollars) 1/",215743.6
+41000,Oregon,2,"  Real personal income (millions of constant (2012) dollars) 2/",209889.8
+41000,Oregon,3,"  Real PCE (millions of constant (2012) dollars) 3/",156276.0
+41000,Oregon,,Current dollar statistics (millions of dollars),
+41000,Oregon,4,"  Gross domestic product (GDP)",247966.7
+41000,Oregon,5,"  Personal income",241790.3
+41000,Oregon,6,"  Disposable personal income",212803.6
+41000,Oregon,7,"  Personal consumption expenditures",179129.5
+41000,Oregon,,Real per capita dollar statistics (constant 2012 dollars),
+41000,Oregon,8,"  Real per capita personal income 4/",49485
+41000,Oregon,9,"  Real per capita PCE 5/",36844
+41000,Oregon,,Per capita current dollar statistics,
+41000,Oregon,10,"  Per capita personal income 6/",57005
+41000,Oregon,11,"  Per capita disposable personal income 7/",50171
+41000,Oregon,12,"  Per capita personal consumption expenditures (PCE) 8/",42232
+41000,Oregon,,Price indexes,
+41000,Oregon,13,"  Regional price parities (RPPs) 9/",102.622
+41000,Oregon,14,"  Implicit regional price deflator 10/",114.141
+41000,Oregon,,Employment,
+41000,Oregon,15,"  Total employment (number of jobs)",2493784
+42000,Pennsylvania,,Real dollar statistics,
+42000,Pennsylvania,1,"  Real GDP (millions of chained 2012 dollars) 1/",680957.4
+42000,Pennsylvania,2,"  Real personal income (millions of constant (2012) dollars) 2/",729033.5
+42000,Pennsylvania,3,"  Real PCE (millions of constant (2012) dollars) 3/",525981.5
+42000,Pennsylvania,,Current dollar statistics (millions of dollars),
+42000,Pennsylvania,4,"  Gross domestic product (GDP)",771613.2
+42000,Pennsylvania,5,"  Personal income",788281.5
+42000,Pennsylvania,6,"  Disposable personal income",704233.7
+42000,Pennsylvania,7,"  Personal consumption expenditures",572692.2
+42000,Pennsylvania,,Real per capita dollar statistics (constant 2012 dollars),
+42000,Pennsylvania,8,"  Real per capita personal income 4/",57030
+42000,Pennsylvania,9,"  Real per capita PCE 5/",41146
+42000,Pennsylvania,,Per capita current dollar statistics,
+42000,Pennsylvania,10,"  Per capita personal income 6/",60685
+42000,Pennsylvania,11,"  Per capita disposable personal income 7/",54215
+42000,Pennsylvania,12,"  Per capita personal consumption expenditures (PCE) 8/",44088
+42000,Pennsylvania,,Price indexes,
+42000,Pennsylvania,13,"  Regional price parities (RPPs) 9/",97.564
+42000,Pennsylvania,14,"  Implicit regional price deflator 10/",108.516
+42000,Pennsylvania,,Employment,
+42000,Pennsylvania,15,"  Total employment (number of jobs)",7413333
+44000,Rhode Island,,Real dollar statistics,
+44000,Rhode Island,1,"  Real GDP (millions of chained 2012 dollars) 1/",51516.1
+44000,Rhode Island,2,"  Real personal income (millions of constant (2012) dollars) 2/",56935.8
+44000,Rhode Island,3,"  Real PCE (millions of constant (2012) dollars) 3/",40076.5
+44000,Rhode Island,,Current dollar statistics (millions of dollars),
+44000,Rhode Island,4,"  Gross domestic product (GDP)",60770.6
+44000,Rhode Island,5,"  Personal income",65709.0
+44000,Rhode Island,6,"  Disposable personal income",58730.1
+44000,Rhode Island,7,"  Personal consumption expenditures",45546.3
+44000,Rhode Island,,Real per capita dollar statistics (constant 2012 dollars),
+44000,Rhode Island,8,"  Real per capita personal income 4/",53859
+44000,Rhode Island,9,"  Real per capita PCE 5/",37911
+44000,Rhode Island,,Per capita current dollar statistics,
+44000,Rhode Island,10,"  Per capita personal income 6/",59941
+44000,Rhode Island,11,"  Per capita disposable personal income 7/",53575
+44000,Rhode Island,12,"  Per capita personal consumption expenditures (PCE) 8/",41548
+44000,Rhode Island,,Price indexes,
+44000,Rhode Island,13,"  Regional price parities (RPPs) 9/",101.845
+44000,Rhode Island,14,"  Implicit regional price deflator 10/",113.276
+44000,Rhode Island,,Employment,
+44000,Rhode Island,15,"  Total employment (number of jobs)",615726
+45000,South Carolina,,Real dollar statistics,
+45000,South Carolina,1,"  Real GDP (millions of chained 2012 dollars) 1/",208234.1
+45000,South Carolina,2,"  Real personal income (millions of constant (2012) dollars) 2/",246563.9
+45000,South Carolina,3,"  Real PCE (millions of constant (2012) dollars) 3/",192240.4
+45000,South Carolina,,Current dollar statistics (millions of dollars),
+45000,South Carolina,4,"  Gross domestic product (GDP)",245359.5
+45000,South Carolina,5,"  Personal income",251946.2
+45000,South Carolina,6,"  Disposable personal income",227513.9
+45000,South Carolina,7,"  Personal consumption expenditures",196787.9
+45000,South Carolina,,Real per capita dollar statistics (constant 2012 dollars),
+45000,South Carolina,8,"  Real per capita personal income 4/",47252
+45000,South Carolina,9,"  Real per capita PCE 5/",36842
+45000,South Carolina,,Per capita current dollar statistics,
+45000,South Carolina,10,"  Per capita personal income 6/",49105
+45000,South Carolina,11,"  Per capita disposable personal income 7/",44343
+45000,South Carolina,12,"  Per capita personal consumption expenditures (PCE) 8/",38355
+45000,South Carolina,,Price indexes,
+45000,South Carolina,13,"  Regional price parities (RPPs) 9/",91.647
+45000,South Carolina,14,"  Implicit regional price deflator 10/",101.934
+45000,South Carolina,,Employment,
+45000,South Carolina,15,"  Total employment (number of jobs)",2825222
+46000,South Dakota,,Real dollar statistics,
+46000,South Dakota,1,"  Real GDP (millions of chained 2012 dollars) 1/",47402.4
+46000,South Dakota,2,"  Real personal income (millions of constant (2012) dollars) 2/",52147.6
+46000,South Dakota,3,"  Real PCE (millions of constant (2012) dollars) 3/",36681.1
+46000,South Dakota,,Current dollar statistics (millions of dollars),
+46000,South Dakota,4,"  Gross domestic product (GDP)",55681.2
+46000,South Dakota,5,"  Personal income",53621.5
+46000,South Dakota,6,"  Disposable personal income",49853.7
+46000,South Dakota,7,"  Personal consumption expenditures",37476.5
+46000,South Dakota,,Real per capita dollar statistics (constant 2012 dollars),
+46000,South Dakota,8,"  Real per capita personal income 4/",58414
+46000,South Dakota,9,"  Real per capita PCE 5/",41089
+46000,South Dakota,,Per capita current dollar statistics,
+46000,South Dakota,10,"  Per capita personal income 6/",60446
+46000,South Dakota,11,"  Per capita disposable personal income 7/",56199
+46000,South Dakota,12,"  Per capita personal consumption expenditures (PCE) 8/",42246
+46000,South Dakota,,Price indexes,
+46000,South Dakota,13,"  Regional price parities (RPPs) 9/",91.518
+46000,South Dakota,14,"  Implicit regional price deflator 10/",101.790
+46000,South Dakota,,Employment,
+46000,South Dakota,15,"  Total employment (number of jobs)",606699
+47000,Tennessee,,Real dollar statistics,
+47000,Tennessee,1,"  Real GDP (millions of chained 2012 dollars) 1/",323454.0
+47000,Tennessee,2,"  Real personal income (millions of constant (2012) dollars) 2/",344034.4
+47000,Tennessee,3,"  Real PCE (millions of constant (2012) dollars) 3/",251970.4
+47000,Tennessee,,Current dollar statistics (millions of dollars),
+47000,Tennessee,4,"  Gross domestic product (GDP)",379007.1
+47000,Tennessee,5,"  Personal income",362278.1
+47000,Tennessee,6,"  Disposable personal income",334898.0
+47000,Tennessee,7,"  Personal consumption expenditures",259372.2
+47000,Tennessee,,Real per capita dollar statistics (constant 2012 dollars),
+47000,Tennessee,8,"  Real per capita personal income 4/",49955
+47000,Tennessee,9,"  Real per capita PCE 5/",36587
+47000,Tennessee,,Per capita current dollar statistics,
+47000,Tennessee,10,"  Per capita personal income 6/",52351
+47000,Tennessee,11,"  Per capita disposable personal income 7/",48395
+47000,Tennessee,12,"  Per capita personal consumption expenditures (PCE) 8/",37481
+47000,Tennessee,,Price indexes,
+47000,Tennessee,13,"  Regional price parities (RPPs) 9/",92.150
+47000,Tennessee,14,"  Implicit regional price deflator 10/",102.493
+47000,Tennessee,,Employment,
+47000,Tennessee,15,"  Total employment (number of jobs)",4121399
+48000,Texas,,Real dollar statistics,
+48000,Texas,1,"  Real GDP (millions of chained 2012 dollars) 1/",1747562.0
+48000,Texas,2,"  Real personal income (millions of constant (2012) dollars) 2/",1466415.9
+48000,Texas,3,"  Real PCE (millions of constant (2012) dollars) 3/",1051771.0
+48000,Texas,,Current dollar statistics (millions of dollars),
+48000,Texas,4,"  Gross domestic product (GDP)",1789933.4
+48000,Texas,5,"  Personal income",1624525.8
+48000,Texas,6,"  Disposable personal income",1479123.6
+48000,Texas,7,"  Personal consumption expenditures",1168805.2
+48000,Texas,,Real per capita dollar statistics (constant 2012 dollars),
+48000,Texas,8,"  Real per capita personal income 4/",49945
+48000,Texas,9,"  Real per capita PCE 5/",35822
+48000,Texas,,Per capita current dollar statistics,
+48000,Texas,10,"  Per capita personal income 6/",55601
+48000,Texas,11,"  Per capita disposable personal income 7/",50624
+48000,Texas,12,"  Per capita personal consumption expenditures (PCE) 8/",40003
+48000,Texas,,Price indexes,
+48000,Texas,13,"  Regional price parities (RPPs) 9/",99.542
+48000,Texas,14,"  Implicit regional price deflator 10/",110.715
+48000,Texas,,Employment,
+48000,Texas,15,"  Total employment (number of jobs)",17706662
+49000,Utah,,Real dollar statistics,
+49000,Utah,1,"  Real GDP (millions of chained 2012 dollars) 1/",174954.7
+49000,Utah,2,"  Real personal income (millions of constant (2012) dollars) 2/",160505.6
+49000,Utah,3,"  Real PCE (millions of constant (2012) dollars) 3/",114548.0
+49000,Utah,,Current dollar statistics (millions of dollars),
+49000,Utah,4,"  Gross domestic product (GDP)",202133.4
+49000,Utah,5,"  Personal income",171385.4
+49000,Utah,6,"  Disposable personal income",152659.2
+49000,Utah,7,"  Personal consumption expenditures",122472.1
+49000,Utah,,Real per capita dollar statistics (constant 2012 dollars),
+49000,Utah,8,"  Real per capita personal income 4/",49388
+49000,Utah,9,"  Real per capita PCE 5/",35247
+49000,Utah,,Per capita current dollar statistics,
+49000,Utah,10,"  Per capita personal income 6/",52225
+49000,Utah,11,"  Per capita disposable personal income 7/",46519
+49000,Utah,12,"  Per capita personal consumption expenditures (PCE) 8/",37320
+49000,Utah,,Price indexes,
+49000,Utah,13,"  Regional price parities (RPPs) 9/",95.322
+49000,Utah,14,"  Implicit regional price deflator 10/",106.021
+49000,Utah,,Employment,
+49000,Utah,15,"  Total employment (number of jobs)",2135409
+50000,Vermont,,Real dollar statistics,
+50000,Vermont,1,"  Real GDP (millions of chained 2012 dollars) 1/",29064.6
+50000,Vermont,2,"  Real personal income (millions of constant (2012) dollars) 2/",33490.0
+50000,Vermont,3,"  Real PCE (millions of constant (2012) dollars) 3/",26737.7
+50000,Vermont,,Current dollar statistics (millions of dollars),
+50000,Vermont,4,"  Gross domestic product (GDP)",34018.6
+50000,Vermont,5,"  Personal income",38097.7
+50000,Vermont,6,"  Disposable personal income",34260.0
+50000,Vermont,7,"  Personal consumption expenditures",29686.3
+50000,Vermont,,Real per capita dollar statistics (constant 2012 dollars),
+50000,Vermont,8,"  Real per capita personal income 4/",53726
+50000,Vermont,9,"  Real per capita PCE 5/",42894
+50000,Vermont,,Per capita current dollar statistics,
+50000,Vermont,10,"  Per capita personal income 6/",59296
+50000,Vermont,11,"  Per capita disposable personal income 7/",53323
+50000,Vermont,12,"  Per capita personal consumption expenditures (PCE) 8/",46205
+50000,Vermont,,Price indexes,
+50000,Vermont,13,"  Regional price parities (RPPs) 9/",99.347
+50000,Vermont,14,"  Implicit regional price deflator 10/",110.499
+50000,Vermont,,Employment,
+50000,Vermont,15,"  Total employment (number of jobs)",409390
+51000,Virginia,,Real dollar statistics,
+51000,Virginia,1,"  Real GDP (millions of chained 2012 dollars) 1/",478909.3
+51000,Virginia,2,"  Real personal income (millions of constant (2012) dollars) 2/",475341.6
+51000,Virginia,3,"  Real PCE (millions of constant (2012) dollars) 3/",327035.8
+51000,Virginia,,Current dollar statistics (millions of dollars),
+51000,Virginia,4,"  Gross domestic product (GDP)",556992.6
+51000,Virginia,5,"  Personal income",536817.2
+51000,Virginia,6,"  Disposable personal income",470939.4
+51000,Virginia,7,"  Personal consumption expenditures",369718.3
+51000,Virginia,,Real per capita dollar statistics (constant 2012 dollars),
+51000,Virginia,8,"  Real per capita personal income 4/",55333
+51000,Virginia,9,"  Real per capita PCE 5/",38069
+51000,Virginia,,Per capita current dollar statistics,
+51000,Virginia,10,"  Per capita personal income 6/",62189
+51000,Virginia,11,"  Per capita disposable personal income 7/",54557
+51000,Virginia,12,"  Per capita personal consumption expenditures (PCE) 8/",42831
+51000,Virginia,,Price indexes,
+51000,Virginia,13,"  Regional price parities (RPPs) 9/",100.978
+51000,Virginia,14,"  Implicit regional price deflator 10/",112.313
+51000,Virginia,,Employment,
+51000,Virginia,15,"  Total employment (number of jobs)",5224997
+53000,Washington,,Real dollar statistics,
+53000,Washington,1,"  Real GDP (millions of chained 2012 dollars) 1/",538856.1
+53000,Washington,2,"  Real personal income (millions of constant (2012) dollars) 2/",433804.2
+53000,Washington,3,"  Real PCE (millions of constant (2012) dollars) 3/",296640.8
+53000,Washington,,Current dollar statistics (millions of dollars),
+53000,Washington,4,"  Gross domestic product (GDP)",612969.1
+53000,Washington,5,"  Personal income",527581.8
+53000,Washington,6,"  Disposable personal income",473497.6
+53000,Washington,7,"  Personal consumption expenditures",356590.2
+53000,Washington,,Real per capita dollar statistics (constant 2012 dollars),
+53000,Washington,8,"  Real per capita personal income 4/",56385
+53000,Washington,9,"  Real per capita PCE 5/",38557
+53000,Washington,,Per capita current dollar statistics,
+53000,Washington,10,"  Per capita personal income 6/",68350
+53000,Washington,11,"  Per capita disposable personal income 7/",61344
+53000,Washington,12,"  Per capita personal consumption expenditures (PCE) 8/",46198
+53000,Washington,,Price indexes,
+53000,Washington,13,"  Regional price parities (RPPs) 9/",107.359
+53000,Washington,14,"  Implicit regional price deflator 10/",119.410
+53000,Washington,,Employment,
+53000,Washington,15,"  Total employment (number of jobs)",4436065
+54000,West Virginia,,Real dollar statistics,
+54000,West Virginia,1,"  Real GDP (millions of chained 2012 dollars) 1/",70444.2
+54000,West Virginia,2,"  Real personal income (millions of constant (2012) dollars) 2/",82331.9
+54000,West Virginia,3,"  Real PCE (millions of constant (2012) dollars) 3/",67875.3
+54000,West Virginia,,Current dollar statistics (millions of dollars),
+54000,West Virginia,4,"  Gross domestic product (GDP)",76547.9
+54000,West Virginia,5,"  Personal income",80971.2
+54000,West Virginia,6,"  Disposable personal income",74113.9
+54000,West Virginia,7,"  Personal consumption expenditures",66537.4
+54000,West Virginia,,Real per capita dollar statistics (constant 2012 dollars),
+54000,West Virginia,8,"  Real per capita personal income 4/",46130
+54000,West Virginia,9,"  Real per capita PCE 5/",38030
+54000,West Virginia,,Per capita current dollar statistics,
+54000,West Virginia,10,"  Per capita personal income 6/",45240
+54000,West Virginia,11,"  Per capita disposable personal income 7/",41409
+54000,West Virginia,12,"  Per capita personal consumption expenditures (PCE) 8/",37176
+54000,West Virginia,,Price indexes,
+54000,West Virginia,13,"  Regional price parities (RPPs) 9/",87.959
+54000,West Virginia,14,"  Implicit regional price deflator 10/",97.833
+54000,West Virginia,,Employment,
+54000,West Virginia,15,"  Total employment (number of jobs)",841019
+55000,Wisconsin,,Real dollar statistics,
+55000,Wisconsin,1,"  Real GDP (millions of chained 2012 dollars) 1/",293104.9
+55000,Wisconsin,2,"  Real personal income (millions of constant (2012) dollars) 2/",313787.8
+55000,Wisconsin,3,"  Real PCE (millions of constant (2012) dollars) 3/",230514.1
+55000,Wisconsin,,Current dollar statistics (millions of dollars),
+55000,Wisconsin,4,"  Gross domestic product (GDP)",340591.1
+55000,Wisconsin,5,"  Personal income",329622.8
+55000,Wisconsin,6,"  Disposable personal income",294460.8
+55000,Wisconsin,7,"  Personal consumption expenditures",239972.9
+55000,Wisconsin,,Real per capita dollar statistics (constant 2012 dollars),
+55000,Wisconsin,8,"  Real per capita personal income 4/",53798
+55000,Wisconsin,9,"  Real per capita PCE 5/",39521
+55000,Wisconsin,,Per capita current dollar statistics,
+55000,Wisconsin,10,"  Per capita personal income 6/",55941
+55000,Wisconsin,11,"  Per capita disposable personal income 7/",49974
+55000,Wisconsin,12,"  Per capita personal consumption expenditures (PCE) 8/",40726
+55000,Wisconsin,,Price indexes,
+55000,Wisconsin,13,"  Regional price parities (RPPs) 9/",93.188
+55000,Wisconsin,14,"  Implicit regional price deflator 10/",103.648
+55000,Wisconsin,,Employment,
+55000,Wisconsin,15,"  Total employment (number of jobs)",3582636
+56000,Wyoming,,Real dollar statistics,
+56000,Wyoming,1,"  Real GDP (millions of chained 2012 dollars) 1/",36268.6
+56000,Wyoming,2,"  Real personal income (millions of constant (2012) dollars) 2/",35209.1
+56000,Wyoming,3,"  Real PCE (millions of constant (2012) dollars) 3/",23844.0
+56000,Wyoming,,Current dollar statistics (millions of dollars),
+56000,Wyoming,4,"  Gross domestic product (GDP)",36330.4
+56000,Wyoming,5,"  Personal income",37974.0
+56000,Wyoming,6,"  Disposable personal income",34345.3
+56000,Wyoming,7,"  Personal consumption expenditures",24566.4
+56000,Wyoming,,Real per capita dollar statistics (constant 2012 dollars),
+56000,Wyoming,8,"  Real per capita personal income 4/",60463
+56000,Wyoming,9,"  Real per capita PCE 5/",40946
+56000,Wyoming,,Per capita current dollar statistics,
+56000,Wyoming,10,"  Per capita personal income 6/",65782
+56000,Wyoming,11,"  Per capita disposable personal income 7/",59496
+56000,Wyoming,12,"  Per capita personal consumption expenditures (PCE) 8/",42556
+56000,Wyoming,,Price indexes,
+56000,Wyoming,13,"  Regional price parities (RPPs) 9/",92.257
+56000,Wyoming,14,"  Implicit regional price deflator 10/",102.612
+56000,Wyoming,,Employment,
+56000,Wyoming,15,"  Total employment (number of jobs)",401871
+
+Legend/Footnotes
+"1/ Chained (2012) dollar series are calculated as the product of the chain-type quantity index and the 2012 current-dollar value of the corresponding series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar estimates are usually not additive. The difference between the United States and sum-of-states reflects federal military and civilian activity located overseas, as well as the differences in source data used to estimate GDP by industry and the expenditures measure of real GDP."
+2/ Real personal income for states is personal income divided by the RPPs and the national PCE price index. The result is a constant dollar (using 2012 as the base year) estimate of real personal income. Calculations are performed on unrounded data.
+3/ Real personal consumption expenditures for states are personal consumption expenditures divided by the RPPs and the national PCE price index. The result is a constant dollar (using 2012 as the base year) estimate of real personal consumption expenditures. Calculations are performed on unrounded data.
+4/ Real per capita personal income for states is calculated using Census Bureau midyear population estimates based on the 2010 Census. BEA will incorporate midyear population estimates based on the 2020 census results when they become available.
+5/ Real per capita personal consumption expenditures for states are calculated using Census Bureau midyear population estimates based on the 2010 Census. BEA will incorporate midyear population estimates based on the 2020 census results when they become available
+"6/ Per capita personal income is total personal income divided by total midyear population. BEA produced intercensal population figures for 2010 to 2019 that are tied to the Census Bureau decennial counts for 2010 and 2020 to create consistent time series that are used to prepare per capita personal income statistics. BEA used the Census Bureau Das Gupta method (see https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/intercensal/2000-2010-intercensal-estimates-methodology.pdf), modified to account for an extra leap year day, to produce the intercensal population figures that will be used until Census releases its official intercensal population data."
+"7/ Per capita disposable personal income is total disposable personal income divided by total midyear population estimates of the Census Bureau. BEA produced intercensal population figures for 2010 to 2019 that are tied to the Census Bureau decennial counts for 2010 and 2020 to create consistent time series that are used to prepare per capita personal income statistics. BEA used the Census Bureau Das Gupta method (see https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/intercensal/2000-2010-intercensal-estimates-methodology.pdf), modified to account for an extra leap year day, to produce the intercensal population figures that will be used until Census releases its official intercensal population data."
+"8/ Per capita PCE estimates are in current dollars. Per capita values are computed from unrounded data. BEA produced intercensal population figures for 2010 to 2019 that are tied to the Census Bureau decennial counts for 2010 and 2020 to create consistent time series that are used to prepare per capita PCE statistics. BEA used the Census Bureau Das Gupta method (see https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/intercensal/2000-2010-intercensal-estimates-methodology.pdf), modified to account for an extra leap year day, to produce the intercensal population figures that will be used until Census releases its official intercensal population data."
+9/ Regional price parities (RPPs) measure price level differences across regions for one time period.  Each annual set of RPPs is estimated relative to the US average for that year and thus cannot be compared meaningfully across years (see the IRPD for an adjustment that enables regional time-to-time comparisons).
+10/ Implicit regional price deflators (IRPDs) are derived as the product of two terms--the regional price parity and the U.S. PCE price index.  The year to-year change in the IRPDs is an indirect measure of regional inflation.
+(NA) In the latest year (NA) indicates the statistic has not yet been published. (NA) in early years indicates the statistic is not available due to source data or methodological reasons.
+"  Last updated: October 6, 2022."
